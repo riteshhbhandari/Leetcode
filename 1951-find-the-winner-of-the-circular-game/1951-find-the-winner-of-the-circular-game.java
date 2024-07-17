@@ -4,7 +4,6 @@ class Solution {
         for(int a=0;a<n;a++){
             arr.add(a+1);
         }
-        System.out.println(arr);
         int flg=1;
         int rem=0;
         while(arr.size()!=1){
