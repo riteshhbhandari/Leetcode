@@ -1,10 +1,11 @@
 class Solution {
     public List<Integer> luckyNumbers (int[][] matrix) {
         ArrayList <Integer> a1=new ArrayList<>();
-        int r=0, c=0;
+        int c=0;
         int rows=matrix.length;
         int column=matrix[0].length;
         int flg=0;
+
         for(int k=0;k<rows;k++){
             flg=0;
             int min=matrix[k][0];
@@ -17,12 +18,10 @@ class Solution {
             }
             for(int j=0;j<rows;j++){
                 if(min>=matrix[j][c])
-                {flg++;}
+                    flg++;
             }
-            if(flg==rows)
-            {
+            if(flg==rows){
                 a1.add(min);
-                System.out.println(min);
                 return a1;
             }
         }
