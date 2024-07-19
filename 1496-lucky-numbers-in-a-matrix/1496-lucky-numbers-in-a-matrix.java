@@ -11,7 +11,6 @@ class Solution {
             for(int i=0;i<column;i++){ 
                 if(min>matrix[k][i]){
                     min=matrix[k][i];
-                    r=k;
                     c=i;
                     System.out.println(matrix[k][i]);
                 }
