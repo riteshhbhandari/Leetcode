@@ -19,6 +19,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [1741-sort-array-by-increasing-frequency](https://github.com/riteshhbhandari/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/riteshhbhandari/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/riteshhbhandari/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/riteshhbhandari/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/riteshhbhandari/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/riteshhbhandari/Leetcode/tree/master/2502-sort-the-people) |
@@ -190,4 +191,8 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/riteshhbhandari/Leetcode/tree/master/1511-count-number-of-teams) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
