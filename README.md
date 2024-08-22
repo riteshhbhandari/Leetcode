@@ -283,4 +283,8 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/riteshhbhandari/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
