@@ -52,6 +52,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [0726-number-of-atoms](https://github.com/riteshhbhandari/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/riteshhbhandari/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/riteshhbhandari/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/riteshhbhandari/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/riteshhbhandari/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/riteshhbhandari/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/riteshhbhandari/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -186,6 +187,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Depth-First Search
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/riteshhbhandari/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/riteshhbhandari/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/riteshhbhandari/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/riteshhbhandari/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -206,6 +208,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/riteshhbhandari/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/riteshhbhandari/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/riteshhbhandari/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/riteshhbhandari/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -284,6 +287,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/riteshhbhandari/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/riteshhbhandari/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Strongly Connected Component
 |  |
