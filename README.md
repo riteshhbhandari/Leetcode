@@ -6,6 +6,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/riteshhbhandari/Leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/riteshhbhandari/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -65,6 +66,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/riteshhbhandari/Leetcode/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/riteshhbhandari/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
