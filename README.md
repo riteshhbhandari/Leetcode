@@ -36,6 +36,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [1951-find-the-winner-of-the-circular-game](https://github.com/riteshhbhandari/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/riteshhbhandari/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/riteshhbhandari/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshhbhandari/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/riteshhbhandari/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/riteshhbhandari/Leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/riteshhbhandari/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -92,6 +93,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/riteshhbhandari/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/riteshhbhandari/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/riteshhbhandari/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshhbhandari/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/riteshhbhandari/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/riteshhbhandari/Leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -292,6 +294,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Sliding Window
 |  |
 | ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshhbhandari/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Union Find
 |  |
