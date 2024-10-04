@@ -44,6 +44,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [2306-create-binary-tree-from-descriptions](https://github.com/riteshhbhandari/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/riteshhbhandari/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/riteshhbhandari/Leetcode/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/riteshhbhandari/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/riteshhbhandari/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/riteshhbhandari/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/riteshhbhandari/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -65,6 +66,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [2163-kth-distinct-string-in-an-array](https://github.com/riteshhbhandari/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/riteshhbhandari/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/riteshhbhandari/Leetcode/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/riteshhbhandari/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/riteshhbhandari/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -75,6 +77,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riteshhbhandari/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/riteshhbhandari/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/riteshhbhandari/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +98,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [1741-sort-array-by-increasing-frequency](https://github.com/riteshhbhandari/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshhbhandari/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/riteshhbhandari/Leetcode/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/riteshhbhandari/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/riteshhbhandari/Leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
