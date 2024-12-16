@@ -5,13 +5,9 @@ class Solution {
         dp[0]=0;
 
         int fi=min(coins, amount, dp);
-        System.out.println(dp.length);
-        for(int x:dp)
-        System.out.println(x);
-
         if(fi==Integer.MAX_VALUE)
         return-1;
-        
+
         return fi;
     }
     public static int min(int[] coins, int amount,int dp[] ){
@@ -34,10 +30,8 @@ class Solution {
             
             }
         }
-        // if(ans!=Integer.MAX_VALUE)
+
         dp[amount]=ans;
-        // else
-        // dp[amount]=-1;
         return ans;
     }
 }
