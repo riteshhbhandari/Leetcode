@@ -138,6 +138,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/riteshhbhandari/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/riteshhbhandari/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/riteshhbhandari/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -269,6 +270,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/riteshhbhandari/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/riteshhbhandari/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0518-coin-change-ii) |
@@ -347,4 +349,8 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riteshhbhandari/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/riteshhbhandari/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
