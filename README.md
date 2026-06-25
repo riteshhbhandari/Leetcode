@@ -11,6 +11,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [0040-combination-sum-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0198-house-robber](https://github.com/riteshhbhandari/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/riteshhbhandari/Leetcode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/riteshhbhandari/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0518-coin-change-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/riteshhbhandari/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -107,6 +108,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/riteshhbhandari/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/riteshhbhandari/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/riteshhbhandari/Leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/riteshhbhandari/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
