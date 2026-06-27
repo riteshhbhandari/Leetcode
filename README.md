@@ -80,6 +80,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [0027-remove-element](https://github.com/riteshhbhandari/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riteshhbhandari/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/riteshhbhandari/Leetcode/tree/master/0443-string-compression) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/riteshhbhandari/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/riteshhbhandari/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -167,6 +168,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riteshhbhandari/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/riteshhbhandari/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0443-string-compression](https://github.com/riteshhbhandari/Leetcode/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/riteshhbhandari/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/riteshhbhandari/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/riteshhbhandari/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
