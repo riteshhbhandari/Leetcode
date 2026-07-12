@@ -16,6 +16,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0518-coin-change-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/riteshhbhandari/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/riteshhbhandari/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0870-magic-squares-in-grid](https://github.com/riteshhbhandari/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/riteshhbhandari/Leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/riteshhbhandari/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -319,6 +320,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/riteshhbhandari/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshhbhandari/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Union Find
