@@ -177,6 +177,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [0664-strange-printer](https://github.com/riteshhbhandari/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/riteshhbhandari/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/riteshhbhandari/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riteshhbhandari/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/riteshhbhandari/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/riteshhbhandari/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/riteshhbhandari/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -321,6 +322,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/riteshhbhandari/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riteshhbhandari/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshhbhandari/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Union Find
