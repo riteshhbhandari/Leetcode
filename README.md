@@ -23,6 +23,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 | [0921-spiral-matrix-iii](https://github.com/riteshhbhandari/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/riteshhbhandari/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/riteshhbhandari/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1004-max-consecutive-ones-iii](https://github.com/riteshhbhandari/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/riteshhbhandari/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/riteshhbhandari/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/1240-stone-game-ii) |
@@ -91,6 +92,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/riteshhbhandari/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/riteshhbhandari/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/riteshhbhandari/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -322,6 +324,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/riteshhbhandari/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/riteshhbhandari/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riteshhbhandari/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/riteshhbhandari/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -353,6 +356,7 @@ FIRST 10 DAYS OF CODES WERE PUSHED 5 DAYS BACK 16-07-2024
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/riteshhbhandari/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/riteshhbhandari/Leetcode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/riteshhbhandari/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
